@@ -1,12 +1,12 @@
 /* high-contrast text */
 h2, .panel-container h2, .forumbg .header a, .forabg .header a, th a, .tabs .activetab > a, .tabs .activetab > a:hover, .tabs .tab a:hover, .navigation .active-subsection a, .navigation .active-subsection a:hover, .navigation a:hover, .panel-container .panel li.header dd, .panel-container .panel li.header dt, label:hover, fieldset dl:hover dt label, dl.faq dt, h3, .content h2, .panel h2, fieldset.polls dl.voted, .button .icon, .inputbox, textarea, .message-box textarea, .panel-container table.table1 thead th, li.header dt, li.header dd, a.button1, input.button1, input.button3, a.button2, input.button2, a.button1:hover, input.button1:hover, a.button2:hover, input.button2:hover, input.button3:hover, .postbody .content, .pagination li a, select, .button .icon, .button-secondary, .global_read_mine:after, .global_read_locked_mine:after, .global_unread_mine:after, .global_unread_locked_mine:after, .announce_read_mine:after, .announce_read_locked_mine:after, .announce_unread_mine:after, .announce_unread_locked_mine:after, .sticky_read_mine:after, .sticky_read_locked_mine:after, .sticky_unread_mine:after, .sticky_unread_locked_mine:after, .topic_read_mine:after, .topic_read_hot_mine:after, .topic_unread_mine:after, .topic_unread_hot_mine:after, .topic_read_locked_mine:after, .topic_unread_locked_mine:after, .dropdown-extended .header, .dropdown-extended .footer, .pagination li.ellipsis span, .icon.icon-black, a:hover .icon.icon-black, .minitabs a:hover, .minitabs .activetab > a, .minitabs .activetab > a:hover {
-	color: #CCCCCC !important;
+	color: #EEEEEE !important;
 }
 
 
 /* subtle text */
 html, body, .headerbar p, .copyright, ul.topiclist li, .panel, label, dd label, .signature, .postprofile, .postprofile strong, dl.details dd, dl.details dt, .content, .postbody, fieldset.polls dl, dl.file dd, table.table1 td, .dropdown-extended ul li:hover, .button {
-	color: #838b98;
+	color: #EEEEEE;
 }
 
 
