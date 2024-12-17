@@ -147,9 +147,7 @@ table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
 }
 
 .site_logo {
-    /* Switch the following lines for xmas logo */
-	/*background-image: url("./images/xmas.gif");*/
-	background-image: url("./images/logosmallv2.png");
+	background-image: url("./images/xmas.gif");
 }
 
 /* Horizontal lists
