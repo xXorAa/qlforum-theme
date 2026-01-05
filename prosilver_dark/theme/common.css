@@ -176,9 +176,13 @@ a:hover	{ text-decoration: underline; }
 
 .site_logo {
 	display: inline-block;
-	width: 256px;
+    /* Switch following lines for xmas logo */
+	/*width: 256px;
 	height: 128px;
-	background-size: 256px;
+	background-size: 256px;*/
+	width: 160px;
+	height: 50px;
+	background-size: 160px;
 }
 
 /* Site description and logo */
